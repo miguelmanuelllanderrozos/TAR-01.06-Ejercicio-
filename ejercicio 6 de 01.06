@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+  <html><!--ejercicio 6 -->
+  
+ 
+	<head> <title>ejercicio hr</title>
+		<meta charset="UTF-8">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="evolución de la web">
+		<meta name="keywords" content="Web,HTML,INTERNET,www">
+	
+	</head>
+		<body>
+		<h1><b>Probando atributos de la etiqueta &lt;hr&gt;</h1></h1></b>
+		<p><b>Linea horizontal convencional (&lt;hr&gt;sin atributo)</p></b>
+		<hr>
+		<p><b>Linea horizontal alineada a la izquierda y ancho de 75%</p></b>
+		<hr align="left" width="75%">
+		<p><b>linea horizontal alineada a la derecha, ancho de 75% y grosor de 5 pixeles</p></b>
+		<hr align="right" width="75%" size="5">
+		<p><b>Linea horizontal centrada,ancho de 50% y grosor de 10 pixeles</p></b>
+		<hr align="center" width="50%" size="10">
+		<p><b>linea horizontal centrada,ancho de 300 pixeles y grosor de 15 pixeles</p></b>
+		<hr align="center" width="300" size="15">
+		<p><b>Linea horizontal alineada a la izquierda,ancho de 60%,grosor de 20 pixeles y sin sombra</p></b>
+		<hr align="left" width="60%" size="20" noshade>
+		
+	</head>
+</html>

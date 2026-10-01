@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+  <html><!--ejercicio 7 -->
+  
+ 
+	<head> <title>Ejercicio formatos </title>
+		<meta charset="UTF-8">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="evolución de la web">
+		<meta name="keywords" content="Web,HTML,INTERNET,www">
+	</head>
+	<body>
+	<h1>Ejercicio con diferentes formatos</h1>
+	<h2>probando&lt;b&gt;...&lt;b&gt;</h2>
+	<p><b>Estoy estudiando<b>Desarrollo de aplicaciones web</b>, un ciclo formativo de grado superior</p>
+	<h2>Pobando &lt;del&gt;...&lt;del&gt;</h2>
+	<p>HTML es un lenguaje de <del>programacion</del> marcas.</p>
+	<h2>probando &lt;cite&gt;...&lt;cite&gt;</h2>
+	<p>Segun el genial pintor Picasso <cite> La inspiracion existe,pero tiene que encontrarte trabajando.</cite></p>
+	<h2>probando &lt;mark&gt;...&lt;mark&gt;</h2>
+	<p>En<mark>LEnguaje de Marcas</mark>aprendemos HTML,CSSyXML</p>
+	
+    

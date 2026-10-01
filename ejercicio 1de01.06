@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+  <html><!--ejercicio 1 -->
+  
+ 
+	<head> <title>Mi primera web</title>
+		<meta charset="ISO-8859-1">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="página web de pruebas">
+		<meta name="keywords" content="Web,HTML,internet">
+		
+	</head>
+		<body>
+	<pre>Miguel m.
+	<hr>
+		Llanderrozos Chacon
+		C/Ricardo carapeto burgos
+		tlf:679071361
+	</pre>
+		</body>
+	</html>

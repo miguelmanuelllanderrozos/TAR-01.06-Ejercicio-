@@ -1,0 +1,21 @@
+	<!DOCTYPE html>
+  <html><!--ejercicio 2 -->
+  
+ 
+	<head> <title>Evolucion de la web</title>
+		<meta charset="UTF-8">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="evolución de la web">
+		<meta name="keywords" content="Web,HTML,INTERNET,www">
+	</head>
+	<body>
+	Los metadatos son "descripciones extra" sobre otros datos como una fotografia o un archivo como la fecha o informacion adicional.
+	<pre><b>Los mas utilizados son:</b>
+	-Descriptivos
+	-Administrativos
+	-Tecnicos
+	-estructurales
+	-Estandares globales</pre>
+	</body>
+   </html>

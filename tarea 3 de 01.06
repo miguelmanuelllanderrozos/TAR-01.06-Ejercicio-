@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+  <html><!--ejercicio 3 -->
+  
+ 
+	<head> <title>caracteres especiales</title>
+		<meta charset="UTF-8">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="evolución de la web">
+		<meta name="keywords" content="Web,HTML,INTERNET,www">
+	
+	</head>
+		<body>
+		&euro; <!--&euro;-->
+		&copy; <!--&copy;-->
+		&divide; <!--&divide;-->
+		&lt; <!--&lt;-->
+	</body>
+	</html>

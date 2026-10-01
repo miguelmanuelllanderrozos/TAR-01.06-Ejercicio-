@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <html><!--ejercicio 5 -->
+  
+ 
+	<head> <title>recrear pagina con estilos</title>
+		<meta charset="UTF-8">
+		<meta name="autor" content="miguel m.">
+		<meta name="copyrigth" content="virgen de guadalupe">
+		<meta name="description" content="evolución de la web">
+		<meta name="keywords" content="Web,HTML,INTERNET,www">
+	</head>
+	<body>e
+		
+		<h1><b><tt> <size="20">&iquest;QUE ES UN SCRIPT?</h1></b></tt></size>
+		<p align="left"><font color="red"><tt> Un script es simplemente un fichero de texto que contiene comandos Unix para que sean ejecutados por una shell.
+		
+		Se trata de un intérprete de comandos ,no de un compilador </p></font></tt>
+		<h1><b><i> <size="20">&iquest;QUE ES UN SCRIPT?</h1></b></i></size>
+		<p align="center"><font color="yellow"> Un script es simplemente un fichero de texto que contiene comandos Unix para que sean ejecutados por una shell.
+		
+		Se trata de un intérprete de comandos ,no de un compilador </p></font>
+		<h1><b><u> <size="20">&iquest;QUE ES UN SCRIPT?</h1></b></u></size>
+		<p align="right"><font color="blue"> Un script es simplemente un fichero de texto que contiene comandos Unix para que sean ejecutados por una shell.
+		
+		Se trata de un intérprete de comandos ,no de un compilador </p></font>
+	</body>
+</html>
+		
